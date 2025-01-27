@@ -20,9 +20,7 @@ Self-hosted and with a federated network architecture: To adhere to the distribu
 
 Ambitious: We understand that "making it easier for me to change my email address" is just the start of the global network for the propagation of personal data (imagine having the same like emailfed, but for an official name or gender change! Essentially what countries like Sweden have already, but many web services don't have that, at least not in a globally unified way.)
 
-## Why not a centralized server?
-
-Who would pay for that?
+Not a centralized hub: Because, who would pay for that? We need an architecture through which this can become *public* infrastructure, whose architecture cannot be controlled by a select few by design. A bit similar to the protocols of e.g. bitcoin.
 
 ## Why this repository?
 
