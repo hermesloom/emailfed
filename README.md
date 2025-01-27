@@ -26,4 +26,6 @@ Not a centralized hub: Because, who would pay for that? We need an architecture 
 
 ## Why this repository?
 
-Currently this is only an idea, but I don't have the time right now to pick up this project, so I'm giving it away. If you want it (i.e. become admin of this repository), take it up. Write to synergies@hermesloom.org and mention your GitHub username if you're interested. If you like (i.e. in case you don't want to rename the project), you can also get the domain emailfed.org, which I already registered. Deadline: February 15th.
+Currently this is only an idea, but I don't have the time right now to pick up this project, so I'm giving it away. If you want it (i.e. become admin of this repository), take it up. Write to synergies@hermesloom.org and mention your GitHub username if you're interested. If you like (i.e. in case you don't want to rename the project), you can also get the domain emailfed.org, which I already registered.
+
+Deadline: February 15th.
