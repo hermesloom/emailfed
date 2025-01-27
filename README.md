@@ -1,5 +1,7 @@
 # emailfed
 
+**Revolutionizing email address portability with a federated standard**
+
 emailfed aims to solve a core problem of web users: When you want to change your email address, this is super tedious and many services don't even allow you to change your email address. This implicitly makes users "stuck" at one email provider, even if they would actually want to switch to another one completely, because they have to retain the old email address for some important accounts.
 
 emailfed is a centralized gateway with a decentralized, federated architecture which aims to establish a **network** which propagates your email address changes to all services which implement and run the emailfed standard.
@@ -24,4 +26,4 @@ Not a centralized hub: Because, who would pay for that? We need an architecture 
 
 ## Why this repository?
 
-I don't have the time right now to pick up this project, so I'm giving it away. If you want it, take it up. If you like (i.e. in case you don't want to rename the project), you can also get the domain emailfed.org, which I already registered. synergies@hermesloom.org. Deadline: February 14th.
+Right now, this is only an idea, but I don't have the time right now to pick up this project, so I'm giving it away. If you want it, take it up. If you like (i.e. in case you don't want to rename the project), you can also get the domain emailfed.org, which I already registered. synergies@hermesloom.org. Deadline: February 14th.
