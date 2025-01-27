@@ -8,7 +8,7 @@ emailfed doesn't exist yet. But if you already say "hell yeah", then skip right 
 
 ## What is emailfed?
 
-A standard: Similar to the [Swedish eID framework](https://docs.swedenconnect.se/technical-framework/latest/00_-_Swedish_eID_Framework_-_Introduction.html), emailfed provides a standard: How should you retrieve emails in your code, how should you store them in your database, etc. It is the technical standard that software has to adhere to, in order to make emailfed usable with that software.
+A standard: Similar to the [Swedish eID framework](https://docs.swedenconnect.se/technical-framework/latest/00_-_Swedish_eID_Framework_-_Introduction.html), emailfed provides a standard: How should you retrieve emails in your code, how should you store them in your database, etc. It is the technical standard that software has to adhere to, in order to make emailfed usable with that software. Maybe it even makes sense to write an RFC, but I'm not entirely sure whether that would make sense for emailfed.
 
 A certification: Similar to how ISO 27001 is a standard, emailfed will also need an audit. During such an audit, the service provider must illustrate that their service respects the changes performed in any of the emailfed frontends in *all* its functionality.
 
